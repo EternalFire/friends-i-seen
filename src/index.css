@@ -4,6 +4,5 @@ html, body, :global(#root) {
 }
 
 body {
-  /*background: `url('/sunset.png')`*/
-  background: url('/sunset.png')
+  background: url('http://www.z4a.net/images/2017/04/02/sunset.png')
 }

@@ -8,7 +8,8 @@ function Images() {
     <div style={{
       overflow: 'hidden',
       padding: '10px 0',
-      border: '5px dashed hsl(30, 100%, 60%)'
+      border: '5px dashed hsl(30, 100%, 60%)',
+      borderRadius: '10px'
     }}>
       <Row type="flex" justify="center" gutter={8}>
       {
