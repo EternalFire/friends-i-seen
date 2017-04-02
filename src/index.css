@@ -1,0 +1,9 @@
+
+html, body, :global(#root) {
+  height: 100%;
+}
+
+body {
+  /*background: `url('/sunset.png')`*/
+  background: url('/sunset.png')
+}

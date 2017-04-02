@@ -1,0 +1,24 @@
+.pic {
+  transition: all 0.5s;
+  cursor: pointer;
+  display: block;
+  border-radius: 48%;
+}
+
+:hover.pic {
+  transform: scale(1.1);
+  border: 3.2px solid hsl(30, 100%, 60%);
+}
+
+.modalPic {
+  display: block;
+  margin: 0 auto;  
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.modalPicWrapper {
+  width: 100%;
+  height: 100%;
+}
